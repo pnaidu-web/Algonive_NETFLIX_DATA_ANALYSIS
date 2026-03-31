@@ -108,5 +108,4 @@ This project was completed as part of a Data Analytics Internship task to gain p
 
 ---
 
-## Contact
-For any queries or collaboration, feel free to connect.
+
