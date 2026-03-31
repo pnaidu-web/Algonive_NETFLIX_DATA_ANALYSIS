@@ -81,3 +81,32 @@ Analysis of content ratings such as TV-MA, PG, etc.
 ---
 
 ## Project Structure
+Algonive-Netflix-Data-Analysis/
+│
+├── netflix_analysis.ipynb
+├── final_netflix_dataset.csv
+├── README.md
+---
+
+## How to Run the Project
+1. Open Google Colab
+2. Upload the dataset file
+3. Run all cells in the notebook sequentially
+4. Review visualizations and insights
+
+---
+
+## Future Improvements
+- Develop an interactive dashboard using Power BI or Plotly
+- Apply machine learning techniques for content recommendation
+- Perform deeper analysis on user behavior and preferences
+
+---
+
+## Acknowledgment
+This project was completed as part of a Data Analytics Internship task to gain practical experience in data analysis.
+
+---
+
+## Contact
+For any queries or collaboration, feel free to connect.
